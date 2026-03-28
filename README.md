@@ -1,17 +1,87 @@
-# todo_wala_app
+# 📝 To-Do App (Flutter)
 
-A new Flutter project.
+A simple and elegant To-Do application built using Flutter with a **light brown aesthetic theme**. This app helps users manage their daily tasks efficiently with a clean and minimal UI.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🎨 Theme & Design
 
-A few resources to get you started if this is your first Flutter project:
+The app follows a **light brown aesthetic** for a soft and pleasing user experience.
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+* Background Color: `#F5E6D3`
+* Card Color: `#EAD7C0`
+* Primary Color: `#C8A27C`
+* Text Color: `#5A4634`
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## ✨ Features
+
+* ➕ Add new tasks
+* ✅ Mark tasks as completed
+* ❌ Delete tasks
+* 🎯 Minimal and user-friendly UI
+
+---
+
+## 📱 Screens
+
+* Home screen with task list
+* Input field to add tasks
+* Checkbox to mark completion
+* Delete button for removing tasks
+
+---
+
+## 🛠️ Tech Stack
+
+* **Flutter**
+* **Dart**
+* Material UI Components
+
+---
+
+## 🚀 How to Run the Project
+
+1. Install Flutter on your system
+2. Clone this repository or download the source code
+3. Open the project in VS Code or Android Studio
+4. Run the following command:
+
+```bash
+flutter pub get
+flutter run
+```
+
+---
+
+## 📂 Project Structure
+
+```
+lib/
+ └── main.dart   # Main application file
+```
+
+---
+
+## 💡 Future Improvements
+
+* Add local storage (save tasks permanently)
+* Add task categories (Study, Personal, Work)
+* Add due dates & reminders
+* Improve UI with animations
+
+---
+
+## 👩‍💻 Author
+
+**Nandini Agarwal**
+BTech CSE (AI)
+
+---
+
+## 📌 Conclusion
+
+This project is a beginner-friendly Flutter application that demonstrates basic CRUD operations (Create, Read, Update, Delete) along with a visually pleasing UI design.
+
+---
